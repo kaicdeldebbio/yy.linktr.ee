@@ -1,0 +1,5 @@
+.link-tree__description {
+    color: var(--cinza);
+    margin-bottom: 1.5rem;
+    font-weight: bold;
+}
