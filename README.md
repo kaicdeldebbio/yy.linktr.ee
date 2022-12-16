@@ -4,7 +4,7 @@
 ![image](https://i.imgur.com/397F13N.png)
 
 <div align="center">
-  <b>Link:</b> <a href="https://link-tree-bay.vercel.app/" target=_blank">Linktr.ee</a>
+  <b>Link:</b> <a href="https://link-tree-bay.vercel.app/" target="_blank">Linktr.ee</a>
 </div>
 
 <div align="center">
