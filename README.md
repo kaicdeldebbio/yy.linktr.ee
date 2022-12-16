@@ -30,7 +30,7 @@ Perfeito para manter seu perfil organizado e redirecionar seu público para os p
 
 ## Contato
 
-  Caso esteja interessado(a) em me contatar para uma oportunidade de trabalho, freelancer, ou até mesmo se você for outro dev que precisa de ajuda ou gostaria de fazer   um projeto em conjunto; irei deixar minhas principais redes sociais:
+  Caso esteja interessado(a) em me contatar para uma oportunidade de trabalho, freelancer, ou até mesmo se você for outro(a) dev que precisa de ajuda ou gostaria de fazer   um projeto em conjunto; irei deixar minhas principais redes sociais:
 
  <div align="center"> 
 <a href="https://www.linkedin.com/in/kaic-del-debbio/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
